@@ -1,0 +1,5 @@
+print("hasnain wasli")
+print(5)
+print(23*18)
+print("hasnain wasli")
+print("welcome to python course")
